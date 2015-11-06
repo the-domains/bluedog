@@ -1,0 +1,23 @@
+name: bluedog
+favicon: null
+layout_spectrum: 0.7964804854709655
+typography_spectrum: 0.343110327841714
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.32643708982504904
+  lightness: 0.09701561345718801
+  saturation: 0.2954521644860506
+  rhythmicContrast: 0.8765602433122694
+purpose: []
